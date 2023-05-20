@@ -1,7 +1,7 @@
 {
-  "name": "js-advanced-diploma",
+  "name": "js-diploma",
   "version": "1.0.0",
-  "description": "js-advanced-diploma",
+  "description": "js-diploma",
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode production",
