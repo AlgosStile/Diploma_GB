@@ -2,10 +2,10 @@
 
 ## Установка
 * Установите [Node.js](https://nodejs.org/en/download/)
-`install node`
+`npm i`
 * Установите [yarn](https://yarnpkg.com/lang/en/docs/install/) 
-`install yarn`
-* Установите зависимости проекта `yarn install`
+`npm install --global yarn`
+* Установите зависимости проекта 
 
 ## Для разработки:
 `yarn start`
