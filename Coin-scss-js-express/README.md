@@ -5,7 +5,7 @@
 ![Login preview](./preview/login.png)
 ![Accounts preview](./preview/accounts.png)
 ![Account preview](./preview/account.png)
-![Banks preview](./preview/banks.png)
+![Currency preview](./preview/currency.png)
 
 
 ## Разработка банковской системы хранения и операций над криптовалютными средствами. 
